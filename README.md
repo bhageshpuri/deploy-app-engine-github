@@ -10,7 +10,7 @@ Instead, you can **connect** your **Google Cloud** account to your **GitHub** ac
 
 Let's see how this works step-by-step.
 
-> **Important**: If you'll use [this webapp2 template](https://github.com/smartninja/webapp2-no-gae-jinja) (or similar), make sure to change the variable `localhost` (in main.py) to `False` before you deploy the app to Google Cloud (using this tutorial): `localhost = False`.
+> **Important**: If you'll use [this webapp2 template](https://github.com/bhageshpuri/deploy-app-engine-github) (or similar), make sure to change the variable `localhost` (in main.py) to `False` before you deploy the app to Google Cloud (using this tutorial): `localhost = False`.
 
 ## Step 1: Create Google Cloud project
 
